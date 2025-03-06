@@ -1690,7 +1690,7 @@
   "gdpr-testnet": "eip155:85321",
   "Cyber": "eip155:85449",
   "NAUTTest": "eip155:88002",
-  "$XTC": "eip155:88559",
+  "XTC": "eip155:88559",
   "ZKasino": "eip155:88800",
   "unit0-mainnet": "eip155:88811",
   "unit0-testnet": "eip155:88817",

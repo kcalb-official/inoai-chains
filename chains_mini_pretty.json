@@ -21984,7 +21984,7 @@
 }, {
   "name": "Xitcoin",
   "chainId": 88559,
-  "shortName": "$XTC",
+  "shortName": "XTC",
   "networkId": 88559,
   "nativeCurrency": {
     "name": "Xitcoin",
