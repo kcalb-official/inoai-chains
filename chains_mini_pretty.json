@@ -21982,18 +21982,18 @@
   "faucets": ["https://proteusfaucet.nautchain.xyz"],
   "infoURL": "https://docs.nautchain.xyz"
 }, {
-  "name": "InoAi",
+  "name": "Xitcoin",
   "chainId": 88559,
-  "shortName": "INO",
+  "shortName": "$XTC",
   "networkId": 88559,
   "nativeCurrency": {
-    "name": "InoAi",
-    "symbol": "INO",
+    "name": "Xitcoin",
+    "symbol": "$XTC",
     "decimals": 18
   },
-  "rpc": ["https://inoai-network.com"],
+  "rpc": ["https://network.xitcoin.org"],
   "faucets": [],
-  "infoURL": "https://docs.inoai.info/"
+  "infoURL": "https://docs.xitcoin.org/"
 }, {
   "name": "ZKasino Mainnet",
   "chainId": 88800,
