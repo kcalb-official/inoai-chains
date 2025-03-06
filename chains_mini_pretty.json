@@ -21993,7 +21993,7 @@
   },
   "rpc": ["https://network.xitcoin.org"],
   "faucets": [],
-  "infoURL": "https://docs.xitcoin.org/"
+  "infoURL": "https://docs.xitcoin.org"
 }, {
   "name": "ZKasino Mainnet",
   "chainId": 88800,
